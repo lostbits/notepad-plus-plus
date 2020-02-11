@@ -1,0 +1,15 @@
+Notepad++ v7.8.4   (64-bit)
+Build time : Jan 29 2020 - 01:31:03
+Path : C:\Program Files\Notepad++\notepad++.exe
+Admin mode : OFF
+Local Conf mode : OFF
+OS Name : Windows 10 Pro (64-bit) 
+OS Version : 1909
+OS Build : 18363.657
+Plugins : mimeTools.dll NppConverter.dll NppExport.dll 
+
+Editing mode keeps switching from "insert" to "overwrite". I couldn't find documentation as to how to change the mode. The only solution that I have is to close and reopen Notepad++. On open, the mode is "insert" by default.
+
+Two issues:
+[1] Is the mode switch something that I inadvertantly did, and
+[2] Some idenfification of what to do should be easily searchable in the documentation.
